@@ -4,4 +4,4 @@
   chcp 65001
 
 # Tail
-  Get-Content .\test.log -Wait -Tail 10
+  Get-Content ファイル名 -Wait -Tail 行数
